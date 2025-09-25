@@ -1,0 +1,5 @@
+{
+  "name": "ISCJ Community Hub",
+  "description": "A web application for the Islamic Society of Central Jersey (ISCJ) to manage and display programs, events, prayer times, and contact information. Includes an admin panel for event management.",
+  "requestFramePermissions": []
+}
